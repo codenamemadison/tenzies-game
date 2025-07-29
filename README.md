@@ -1,14 +1,13 @@
-# React + Vite
+# Tenzies
+Tenzi is a fast-paced dice game where players race to be the first to roll all ten of their dice to show the same number. It's a game of speed and luck, requiring players to quickly re-roll dice until they get a matching set.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This version is a React-based web application version, in which users can roll dice and "freeze" dice until they hit the same number for all dice.
 
-Currently, two official plugins are available:
+*Note: This was a project built by me while following the "Learn React" Scrimba certification course, in which the course provided the design and concept*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Links
+<a href="https://www.figma.com/design/FqsxRUhAaXM4ezddQK0CdR/Tenzies?node-id=2-31&t=ROdJiurFh0E0BSW0-0" target="_blank">Figma file</a> – created by Scrimba <br>
+Launch the app [here](https://tenzies-by-ms.netlify.app)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
- FOLLOWING THIS SCRIMBA FIGMA: https://www.figma.com/design/FqsxRUhAaXM4ezddQK0CdR/Tenzies?node-id=2-31&t=ROdJiurFh0E0BSW0-0
+## How to run locally
+Run <pre> ```npm run dev ``` </pre>

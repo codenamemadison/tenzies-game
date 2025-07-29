@@ -1,7 +1,7 @@
 # Tenzies
 Tenzi is a fast-paced dice game where players race to be the first to roll all ten of their dice to show the same number. It's a game of speed and luck, requiring players to quickly re-roll dice until they get a matching set.
 
-This version is a React-based web application version, in which users can roll dice and "freeze" dice until they hit the same number for all dice.
+This version is a **React-based web application** version of the game, in which users can roll dice and "freeze" dice until they hit the same number for all dice.
 
 *Note: This was a project built by me while following the "Learn React" Scrimba certification course, in which the course provided the design and concept*
 

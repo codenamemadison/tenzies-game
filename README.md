@@ -11,3 +11,7 @@ Launch the app [here](https://tenzies-by-ms.netlify.app)
 
 ## How to run locally
 Run <pre> ```npm run dev ``` </pre>
+
+
+### TODO:
+- Fix New Game button
